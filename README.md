@@ -1,2 +1,2 @@
 # massiveOES-example
-Examples using RADIS and massiveOES
+Examples using [RADIS][https://github.com/radis/radis) and [massiveOES](https://bitbucket.org/OES_muni/massiveoes)
